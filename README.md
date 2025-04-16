@@ -17,6 +17,6 @@ You can customize the formula, filters
   - Blocks (BLK)
 - Sort and display top MVP candidates
 
-🧮 MVP Scoring Formula
+MVP Scoring Formula
 
 MVP_Score = (PTS * 0.4) + (AST * 0.2) + (TRB * 0.2) + (STL * 0.1) + (BLK * 0.1)
