@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-09-06T17:33:56.427363",
+  "total_players": 532,
+  "top_10_players": [
+    {
+      "Player": "Luka Don\u010di\u0107",
+      "Team": "DAL",
+      "Pos": "PG",
+      "MVP_Score_Composite": 99.66022353082161
+    },
+    {
+      "Player": "Nikola Joki\u0107",
+      "Team": "DEN",
+      "Pos": "C",
+      "MVP_Score_Composite": 96.28822407791309
+    },
+    {
+      "Player": "Giannis Antetokounmpo",
+      "Team": "MIL",
+      "Pos": "PF",
+      "MVP_Score_Composite": 95.53058594762734
+    },
+    {
+      "Player": "Shai Gilgeous-Alexander",
+      "Team": "OKC",
+      "Pos": "PG",
+      "MVP_Score_Composite": 91.01043402661989
+    },
+    {
+      "Player": "Jalen Brunson",
+      "Team": "NYK",
+      "Pos": "PG",
+      "MVP_Score_Composite": 86.91267447657646
+    },
+    {
+      "Player": "Domantas Sabonis",
+      "Team": "SAC",
+      "Pos": "C",
+      "MVP_Score_Composite": 84.86570439349084
+    },
+    {
+      "Player": "Anthony Davis",
+      "Team": "LAL",
+      "Pos": "C",
+      "MVP_Score_Composite": 84.53502954886552
+    },
+    {
+      "Player": "Anthony Edwards",
+      "Team": "MIN",
+      "Pos": "SG",
+      "MVP_Score_Composite": 83.51008932959266
+    },
+    {
+      "Player": "Kevin Durant",
+      "Team": "PHO",
+      "Pos": "PF",
+      "MVP_Score_Composite": 82.89928371729683
+    },
+    {
+      "Player": "Jayson Tatum",
+      "Team": "BOS",
+      "Pos": "PF",
+      "MVP_Score_Composite": 82.71473616853086
+    }
+  ],
+  "team_summary": {
+    "total_teams": 32,
+    "avg_players_per_team": 16.6
+  },
+  "position_summary": {
+    "total_positions": 5,
+    "position_counts": {
+      "SG": 115,
+      "PF": 111,
+      "SF": 111,
+      "PG": 102,
+      "C": 93
+    }
+  }
+}
